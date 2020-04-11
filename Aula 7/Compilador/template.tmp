@@ -1,0 +1,27 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Pichau\Desktop\arquiteturadehardware-master\Aula 7\Compilador</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>atmega328p.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>Debug\template.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>template.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>template.map</FILE>
+  <FILE>template.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INICIO><FILE>main.asm</FILE><LINE>77</LINE></INICIO>
+  <LOOP><FILE>main.asm</FILE><LINE>83</LINE></LOOP>
+  <LOOP2><FILE>main.asm</FILE><LINE>90</LINE></LOOP2>
+ </LABELS>
+</ASSEMBLER_INFO>
